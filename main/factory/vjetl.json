@@ -1,0 +1,9 @@
+{
+	"name": "vjetl",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8ee13efb-5ea2-4263-ad14-963befda4117",
+		"tenantId": "0223fd63-dec0-4282-accb-460fb4f20168"
+	}
+}
